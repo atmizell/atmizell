@@ -16,5 +16,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: ${{ github.actor }} # Uses your GitHub username
+          CREDLY_USER: mizellandrew@gmail.com
           NUMBER_LAST_BADGES: 0 # (0 = all)
