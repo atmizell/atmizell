@@ -16,5 +16,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: "mizellandrew@gmail.com"
+          CREDLY_USER: andrew-mizell.553bdb57
           NUMBER_LAST_BADGES: 10 # (0 = all)
