@@ -26,8 +26,8 @@ I'm learning about cybersecurity and networking while building hands-on experien
 ## 📚 Learning & Certifications
 
 📙**My Badges**
-<!-- Start_Section:badges -->
-<!-- END_SECTION:badges -->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 | Certification | Status | Progress |
 | --- | --- | --- |
