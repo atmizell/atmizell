@@ -27,6 +27,8 @@ I'm learning about cybersecurity and networking while building hands-on experien
 
 📙**My Badges**
 <!--START_SECTION:badges-->
+[![Python Essentials 1](https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/f8ffa480-b14c-4759-8fc1-7b0a0b979e75)
+[![Project Management Professional (PMP)®](https://images.credly.com/size/80x80/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob)](https://www.credly.com/badges/a795e5c8-c341-4f9d-8921-6a3c0cf642ec)
 <!--END_SECTION:badges-->
 
 | Certification | Status | Progress |
