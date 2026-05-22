@@ -44,14 +44,12 @@ I'm learning about cybersecurity and networking while building hands-on experien
 
 ## 🗂️ Projects
 <!-- Create functional repository links -->
-**Coming Soon!**
-<!--
 | Project | Description |
 | --- | --- |
-| [ccna-journey](https://github.com/yourusername/ccna-journey) | Networking study journal with Packet Tracer labs and topology walkthroughs |
-| [local-llm-lab](https://github.com/yourusername/local-llm-lab) | Private AI inference infrastructure: Ollama + Open WebUI + API automation |
+| [local-llm-lab](https://github.com/atmizell/local-llm-lab) | Private AI inference infrastructure: Ollama + Open WebUI + API automation |
 -->
 <!--
+| [ccna-journey](https://github.com/yourusername/ccna-journey) | Networking study journal with Packet Tracer labs and topology walkthroughs |
 | [homelab-infrastructure](https://github.com/yourusername/homelab-infrastructure) | Proxmox-based virtualized lab with VLAN segmentation and local AI stack |
 | [security-plus-journey](https://github.com/yourusername/security-plus-journey) | Public study journal with domain notes, lab exercises, and progress tracking |
 | [ctf-writeups](https://github.com/yourusername/ctf-writeups) | TryHackMe and CTF challenge writeups documenting methodology and tooling |
