@@ -47,9 +47,9 @@ I'm learning about cybersecurity and networking while building hands-on experien
 | Project | Description |
 | --- | --- |
 | [local-llm-lab](https://github.com/atmizell/local-llm-lab) | Private AI inference infrastructure: Ollama + Open WebUI + API automation |
+| [ccna-journey](https://github.com/atmizell/ccna-journey) | Networking certification study journal |
 
 <!--
-| [ccna-journey](https://github.com/yourusername/ccna-journey) | Networking study journal with Packet Tracer labs and topology walkthroughs |
 | [homelab-infrastructure](https://github.com/yourusername/homelab-infrastructure) | Proxmox-based virtualized lab with VLAN segmentation and local AI stack |
 | [security-plus-journey](https://github.com/yourusername/security-plus-journey) | Public study journal with domain notes, lab exercises, and progress tracking |
 | [ctf-writeups](https://github.com/yourusername/ctf-writeups) | TryHackMe and CTF challenge writeups documenting methodology and tooling |
@@ -96,9 +96,6 @@ I'm learning about cybersecurity and networking while building hands-on experien
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-mizell-a40a15163/)
 
-<!--
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mizellandrew@gmail.com)
--->
 
 <!-- 
 Additional Notes:
